@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "filename": "SchoolBellVibration.png",
+    "title": "School Bell Vibration",
+    "keywords": ["bell", "school bell", "vibration", "hammer", "sound production"],
+    "description": "School bell vibrating when struck by hammer producing sound waves"
+  },
+  {
+    "id": "2",
+    "filename": "VocalCordsDiagram.png",
+    "title": "Vocal Cords Diagram",
+    "keywords": ["vocal cords", "voice", "larynx", "vibration", "sound production", "human voice"],
+    "description": "Diagram showing how vocal cords vibrate to produce sound"
+  },
+  {
+    "id": "3",
+    "filename": "VibrationOfRubberBand.png",
+    "title": "Vibration of Rubber Band",
+    "keywords": ["rubber band", "plucking", "vibration", "back and forth", "stretched"],
+    "description": "Stretched rubber band vibrating when plucked"
+  },
+  {
+    "id": "4",
+    "filename": "MusicalInstrumentsVibrationChart.png",
+    "title": "Musical Instruments Vibration Chart",
+    "keywords": ["musical instruments", "sitar", "flute", "drum", "strings", "air column", "membrane"],
+    "description": "Chart showing vibration in strings, air column and membrane"
+  },
+  {
+    "id": "5",
+    "filename": "CompressionAndRefraction.png",
+    "title": "Compression and Rarefaction in Sound Wave",
+    "keywords": ["compression", "rarefaction", "longitudinal wave", "sound wave", "tuning fork"],
+    "description": "Diagram showing compression and rarefaction regions in sound wave"
+  },
+  {
+    "id": "6",
+    "filename": "ReflectionOfSound.png",
+    "title": "Reflection of Sound",
+    "keywords": ["reflection", "echo", "sound reflection", "wave reflection"],
+    "description": "Diagram showing how sound reflects from a surface to produce echo"
+  }
+]
